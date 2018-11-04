@@ -8,4 +8,4 @@ Custom keyboard layout for the TADA68
 
 ## Layer 2
 
-![image](https://user-images.githubusercontent.com/11053683/47971809-31ff5000-e063-11e8-9a07-8f0d51347f0d.png)
+![image](https://user-images.githubusercontent.com/11053683/47971830-7854af00-e063-11e8-96c5-b181ad342a66.png)
